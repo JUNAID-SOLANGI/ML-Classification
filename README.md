@@ -128,4 +128,5 @@ These insights can support **marketing**, **customer retention**, and **service 
 **Junaid Solangi**
 *M.Phil Data Science Candidate | Data Analyst | Machine Learning Enthusiast*
 📧 jun41d48hmad@gmail.com
+
 💼 www.linkedin.com/in/junaid-solangi-7b439b24a
