@@ -1,4 +1,4 @@
-link# 📊 Telco Customer Segmentation using Clustering
+# 📊 Telco Customer Segmentation using Clustering
 
 This project is a **data science case study** focused on segmenting customers from the **Telco Customer Churn dataset** using various **clustering techniques**.
 The aim is to uncover meaningful customer groups based on demographics, service usage, and billing patterns — providing insights for targeted marketing and churn prevention.
